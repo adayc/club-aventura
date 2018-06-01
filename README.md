@@ -218,7 +218,8 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 ![usuario registrado](https://user-images.githubusercontent.com/32306054/39444406-3c877e00-4c7d-11e8-9478-abd0427dfcaa.jpg)
 
 ### **TESTING**
-1.  _**Totem principal**_
+
+#### _**Totem principal**_
 
 a. Script del testing
 - En este módulo usted va a realizar las siguientes actividades:
@@ -243,7 +244,7 @@ d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
 _Sugiero que lo haga sola_
 
 
-2.  _**Check-in biométrico**_
+#### _**Check-in biométrico**_
 
 a. Script del testing
 - En este módulo usted va a realizar las siguientes actividades:
@@ -274,7 +275,7 @@ _Para que puedo usar los puntos el día de hoy, tiendas por la cuales puedes can
 _Incluir un texto “coloca tu dedo aquí “_
 _Añadir en que ofertas hay en el mall_
 
-3.  _**Canje  de puntos**_
+#### _**Canje  de puntos**_
 
 a. Script del testing
 - En este módulo usted va a realizar las siguientes actividades:
@@ -295,7 +296,7 @@ _Tal ves el tema de la cola como novedad_
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
 _Varios puntos el módulo de atención_
 
-4.  _**Consulta de puntos web**_
+#### _**Consulta de puntos web**_
 
 
 
