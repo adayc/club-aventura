@@ -219,12 +219,14 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 
 ### **TESTING**
 1.  _**Totem principal**_
+
 a. Script del testing
-En este módulo usted va a realizar las siguientes actividades:
+- En este módulo usted va a realizar las siguientes actividades:
 _Ingresar DNI_
 _Ingresar datos adicionales_
 _Elegir intereses_
 _Recoja su merchandising_
+
 b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
 _Disposición a unirse por amabilidad de la anfitriona_
 _Disposición a ganar premios_
@@ -233,7 +235,9 @@ _Si está dispuesto a recibir boletines_
 _En el caso que le dé premios es súper amigable_
 _Bonita, cómoda, agradable_
 _Lo recomendaría con otra persona_
+
 c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
+
 _El tema de dirección es un poco inseguridad por un tema de privacidad_
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
 _Sugiero que lo haga sola_
@@ -242,7 +246,7 @@ _Sugiero que lo haga sola_
 2.  _**Check-in biométrico**_
 
 a. Script del testing
-En este módulo usted va a realizar las siguientes actividades:
+- En este módulo usted va a realizar las siguientes actividades:
 _Uso de biométrico_
 _Ver catalogo_
 _Cerrar sesión_
@@ -271,11 +275,13 @@ _Incluir un texto “coloca tu dedo aquí “_
 _Añadir en que ofertas hay en el mall_
 
 3.  _**Canje  de puntos**_
+
 a. Script del testing
-En este módulo usted va a realizar las siguientes actividades:
+- En este módulo usted va a realizar las siguientes actividades:
 _Consultar puntos por web_
 _Registrar voucher de compra_
 _Canjear productos_
+
 b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
 _Me parece fácil y rápido_
 _Lo haría a pesar que generar incomodidad, pero me da un premio_
@@ -285,8 +291,6 @@ _Me parece incomodo ir hasta cierto punto e ir juntando los vouchers_
 _Se me pierden los vouchers generalmente._
 _Genera una parte incomoda el hecho de ir y movilizarme al mall_
 _Tal ves el tema de la cola como novedad_
-
-
 
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
 _Varios puntos el módulo de atención_
