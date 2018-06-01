@@ -243,53 +243,53 @@ _Sugiero que lo haga sola_
 
 a. Script del testing
 En este módulo usted va a realizar las siguientes actividades:
-_Uso de biométrico
-_Ver catalogo
-_Cerrar sesión
-_Elegir recompensa
-_Consultar recompensa
+_Uso de biométrico_
+_Ver catalogo_
+_Cerrar sesión_
+_Elegir recompensa_
+_Consultar recompensa_
 
 b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
-_La motivación de puntos
-_Catálogo de forma física
-_Le gusta la rapidez
-_En una primera vez le gustaría que la ayudaran
-_Recomendaría a sus amigos el tema de visitas
-_Es la primera vez que escucho por check in
-_Lo recomendaría porque por ir y consumir ya estoy ganando puntos
-_Me pareció fácil
-_Es novedoso no lo he visto en otros malls
+_La motivación de puntos_
+_Catálogo de forma física_
+_Le gusta la rapidez_
+_En una primera vez le gustaría que la ayudaran_
+_Recomendaría a sus amigos el tema de visitas_
+_Es la primera vez que escucho por check in_
+_Lo recomendaría porque por ir y consumir ya estoy ganando puntos_
+_Me pareció fácil_
+_Es novedoso no lo he visto en otros malls_
 
 c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
-_No me es intuitivo el tema de la figura de huella
+_No me es intuitivo el tema de la figura de huella_
 
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
 
-_No le encuentra ningún problema
-_Para que puedo usar los puntos el día de hoy, tiendas por la cuales puedes canjear
-_Incluir un texto “coloca tu dedo aquí “
-_Añadir en que ofertas hay en el mall
+_No le encuentra ningún problema_
+_Para que puedo usar los puntos el día de hoy, tiendas por la cuales puedes canjear_
+_Incluir un texto “coloca tu dedo aquí “_
+_Añadir en que ofertas hay en el mall_
 
 3.  _**Canje  de puntos**_
 a. Script del testing
 En este módulo usted va a realizar las siguientes actividades:
-_Consultar puntos por web
-_Registrar voucher de compra
-_Canjear productos
+_Consultar puntos por web_
+_Registrar voucher de compra_
+_Canjear productos_
 b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
-_Me parece fácil y rápido
-Lo haría a pesar que generar incomodidad, pero me da un premio
+_Me parece fácil y rápido_
+_Lo haría a pesar que generar incomodidad, pero me da un premio_
 
 c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
-_Me parece incomodo ir hasta cierto punto e ir juntando los vouchers 
-_Se me pierden los vouchers generalmente.
-_Genera una parte incomoda el hecho de ir y movilizarme al mall
-_ Tal ves el tema de la cola como novedad
-_Tal ves el tema de la cola como novedad
+_Me parece incomodo ir hasta cierto punto e ir juntando los vouchers_ 
+_Se me pierden los vouchers generalmente._
+_Genera una parte incomoda el hecho de ir y movilizarme al mall_
+_Tal ves el tema de la cola como novedad_
+
 
 
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
-_Varios puntos el módulo de atención
+_Varios puntos el módulo de atención_
 
 4.  _**Consulta de puntos web**_
 
