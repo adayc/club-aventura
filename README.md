@@ -223,78 +223,78 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 
 a. Script del testing
 - En este módulo usted va a realizar las siguientes actividades:
-_Ingresar DNI_
-_Ingresar datos adicionales_
-_Elegir intereses_
-_Recoja su merchandising_
+- _Ingresar DNI_
+- _Ingresar datos adicionales_
+- _Elegir intereses_
+- _Recoja su merchandising_
 
 b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
-_Disposición a unirse por amabilidad de la anfitriona_
-_Disposición a ganar premios_
-_Le pareció rápido, amigable, fácil_
-_Si está dispuesto a recibir boletines_
-_En el caso que le dé premios es súper amigable_
-_Bonita, cómoda, agradable_
-_Lo recomendaría con otra persona_
+- _Disposición a unirse por amabilidad de la anfitriona_
+- _Disposición a ganar premios_
+- _Le pareció rápido, amigable, fácil_
+- _Si está dispuesto a recibir boletines_
+- _En el caso que le dé premios es súper amigable_
+- _Bonita, cómoda, agradable_
+- _Lo recomendaría con otra persona_
 
 c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
 
-_El tema de dirección es un poco inseguridad por un tema de privacidad_
+- _El tema de dirección es un poco inseguridad por un tema de privacidad_
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
-_Sugiero que lo haga sola_
+- _Sugiero que lo haga sola_
 
 
 #### _**Check-in biométrico**_
 
 a. Script del testing
 - En este módulo usted va a realizar las siguientes actividades:
-_Uso de biométrico_
-_Ver catalogo_
-_Cerrar sesión_
-_Elegir recompensa_
-_Consultar recompensa_
+- _Uso de biométrico_
+- _Ver catalogo_
+- _Cerrar sesión_
+- _Elegir recompensa_
+- _Consultar recompensa_
 
 b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
-_La motivación de puntos_
-_Catálogo de forma física_
-_Le gusta la rapidez_
-_En una primera vez le gustaría que la ayudaran_
-_Recomendaría a sus amigos el tema de visitas_
-_Es la primera vez que escucho por check in_
-_Lo recomendaría porque por ir y consumir ya estoy ganando puntos_
-_Me pareció fácil_
-_Es novedoso no lo he visto en otros malls_
+- _La motivación de puntos_
+- _Catálogo de forma física_
+- _Le gusta la rapidez_
+- _En una primera vez le gustaría que la ayudaran_
+- _Recomendaría a sus amigos el tema de visitas_
+- _Es la primera vez que escucho por check in_
+- _Lo recomendaría porque por ir y consumir ya estoy ganando puntos_
+- _Me pareció fácil_
+- _Es novedoso no lo he visto en otros malls_
 
 c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
-_No me es intuitivo el tema de la figura de huella_
+- _No me es intuitivo el tema de la figura de huella_
 
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
 
-_No le encuentra ningún problema_
-_Para que puedo usar los puntos el día de hoy, tiendas por la cuales puedes canjear_
-_Incluir un texto “coloca tu dedo aquí “_
-_Añadir en que ofertas hay en el mall_
+- _No le encuentra ningún problema_
+- _Para que puedo usar los puntos el día de hoy, tiendas por la cuales puedes canjear_
+- _Incluir un texto “coloca tu dedo aquí “_
+- _Añadir en que ofertas hay en el mall_
 
 #### _**Canje  de puntos**_
 
 a. Script del testing
 - En este módulo usted va a realizar las siguientes actividades:
-_Consultar puntos por web_
-_Registrar voucher de compra_
-_Canjear productos_
+- _Consultar puntos por web_
+- _Registrar voucher de compra_
+- _Canjear productos_
 
 b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
-_Me parece fácil y rápido_
-_Lo haría a pesar que generar incomodidad, pero me da un premio_
+- _Me parece fácil y rápido_
+- _Lo haría a pesar que generar incomodidad, pero me da un premio_
 
 c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
-_Me parece incomodo ir hasta cierto punto e ir juntando los vouchers_ 
-_Se me pierden los vouchers generalmente._
-_Genera una parte incomoda el hecho de ir y movilizarme al mall_
-_Tal ves el tema de la cola como novedad_
+- _Me parece incomodo ir hasta cierto punto e ir juntando los vouchers_ 
+- _Se me pierden los vouchers generalmente._
+- _Genera una parte incomoda el hecho de ir y movilizarme al mall_
+- _Tal ves el tema de la cola como novedad_
 
 d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
-_Varios puntos el módulo de atención_
+- _Varios puntos el módulo de atención_
 
 #### _**Consulta de puntos web**_
 
