@@ -219,15 +219,82 @@ Al  día siguiente Juan comenta  su experiencia   que tuvo en Mall Aventura  con
 
 ### **TESTING**
 1.  _**Totem principal**_
+a. Script del testing
+En este módulo usted va a realizar las siguientes actividades:
+_Ingresar DNI_
+_Ingresar datos adicionales_
+_Elegir intereses_
+_Recoja su merchandising_
+b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
+_Disposición a unirse por amabilidad de la anfitriona_
+_Disposición a ganar premios_
+_Le pareció rápido, amigable, fácil_
+_Si está dispuesto a recibir boletines_
+_En el caso que le dé premios es súper amigable_
+_Bonita, cómoda, agradable_
+_Lo recomendaría con otra persona_
+c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
+_El tema de dirección es un poco inseguridad por un tema de privacidad_
+d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
+_Sugiero que lo haga sola_
+
+
 2.  _**Check-in biométrico**_
+
+a. Script del testing
+En este módulo usted va a realizar las siguientes actividades:
+_Uso de biométrico
+_Ver catalogo
+_Cerrar sesión
+_Elegir recompensa
+_Consultar recompensa
+
+b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
+_La motivación de puntos
+_Catálogo de forma física
+_Le gusta la rapidez
+_En una primera vez le gustaría que la ayudaran
+_Recomendaría a sus amigos el tema de visitas
+_Es la primera vez que escucho por check in
+_Lo recomendaría porque por ir y consumir ya estoy ganando puntos
+_Me pareció fácil
+_Es novedoso no lo he visto en otros malls
+
+c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
+_No me es intuitivo el tema de la figura de huella
+
+d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
+
+_No le encuentra ningún problema
+_Para que puedo usar los puntos el día de hoy, tiendas por la cuales puedes canjear
+_Incluir un texto “coloca tu dedo aquí “
+_Añadir en que ofertas hay en el mall
+
 3.  _**Canje  de puntos**_
+a. Script del testing
+En este módulo usted va a realizar las siguientes actividades:
+_Consultar puntos por web
+_Registrar voucher de compra
+_Canjear productos
+b. Cualidades (¿Cuáles son las cosas positivas del proyecto?)
+_Me parece fácil y rápido
+Lo haría a pesar que generar incomodidad, pero me da un premio
+
+c. Debilidades (¿Cuáles son las cosas que molestan o hacen ruido?)
+_Me parece incomodo ir hasta cierto punto e ir juntando los vouchers 
+_Se me pierden los vouchers generalmente.
+_Genera una parte incomoda el hecho de ir y movilizarme al mall
+_ Tal ves el tema de la cola como novedad
+_Tal ves el tema de la cola como novedad
+
+
+d. Mejoras (¿Qué cosas mejorarías o potenciarían?)
+_Varios puntos el módulo de atención
+
 4.  _**Consulta de puntos web**_
 
 
-#### **Primer testing**
 
-- _**Script del testing**_ 
-- _**Tareas a realizar**_ 
 
 ### **CONCLUSIONES**
 
